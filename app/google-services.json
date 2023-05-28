@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527100816118",
+    "project_id": "esandpa20100998",
+    "storage_bucket": "esandpa20100998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527100816118:android:61bfdc7d08dc28dc4e5ad7",
+        "android_client_info": {
+          "package_name": "com.example.semana09dpafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKaPpgS6b3sFc0k5g9BWuU6nBbZLhPhZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
